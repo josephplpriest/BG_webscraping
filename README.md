@@ -8,7 +8,7 @@ Scraping the weekly 2-player "boardgames" sub-reddit posts for the past year, we
 <img src="./imgs/larger_img.png">
 
 #### Tools
-1. Scraping:
+1. Web-scraping:
    Scrapy, Requests
 2. Data Cleaning: Pandas
 3. Text parsing: Spacy, NLTK, SciKitLearn
@@ -17,7 +17,12 @@ Scraping the weekly 2-player "boardgames" sub-reddit posts for the past year, we
 
 ## Project layout
 
-*tbd*
+main.py - main program
+
+/src: modules to be imported into the main program
+/data: stored data as csv after extracting from website json objects
+/imgs: figures, plots, readme images
+/tests: what are tests?
 
 ## Installation
 
