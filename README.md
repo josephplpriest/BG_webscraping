@@ -5,7 +5,7 @@
 ## Description:
 Scraping the weekly 2-player "boardgames" sub-reddit posts for the past year, we will count and visualize which games are mentioned the most frequently.
 
-https://github.com/josephplpriest/BG_webscraping/blob/main/imgs/reddit_bg.png
+(/imgs/reddit_bg.png)
 
 #### Tools
 1. Scraping:
