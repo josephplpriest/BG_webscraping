@@ -20,8 +20,11 @@ Scraping the weekly 2-player "boardgames" sub-reddit posts for the past year, we
 main.py - main program
 
 /src: modules to be imported into the main program
+
 /data: stored data as csv after extracting from website json objects
+
 /imgs: figures, plots, readme images
+
 /tests: what are tests?
 
 ## Installation
