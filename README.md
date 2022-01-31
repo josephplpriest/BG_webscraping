@@ -29,7 +29,7 @@ main.py - main program
 
 ## How to Run
 
-Clone the repository then once inside use the following commands in order.
+Clone the repository then once inside the repository, use the following shell commands in order.
 
 ```bash
 $: conda env create -f environment.yml
