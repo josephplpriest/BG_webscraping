@@ -27,7 +27,15 @@ main.py - main program
 
 /tests: what are tests?
 
-## Installation
+## How to Run
 
-*tbd*
+Clone the repository then once inside the repository, use the following shell commands in order.
 
+```bash
+$: conda env create -f environment.yml
+
+$: conda activate env
+
+$: python main.py
+
+```
