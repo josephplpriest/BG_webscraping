@@ -25,7 +25,7 @@ main.py - main program
 
 /src: mini-modules to be imported into the main program
 
-/tests: what are tests?
+/tests: tbd
 
 ## How to Run
 
